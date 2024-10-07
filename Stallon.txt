@@ -1,3 +1,7 @@
 my name is stallon
 
+<<<<<<< HEAD
 i like food
+=======
+i love you
+>>>>>>> hello
